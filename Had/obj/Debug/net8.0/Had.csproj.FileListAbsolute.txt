@@ -1,0 +1,14 @@
+/Users/sindy/RiderProjects/Had/bin/Debug/net8.0/Had
+/Users/sindy/RiderProjects/Had/bin/Debug/net8.0/Had.deps.json
+/Users/sindy/RiderProjects/Had/bin/Debug/net8.0/Had.runtimeconfig.json
+/Users/sindy/RiderProjects/Had/bin/Debug/net8.0/Had.dll
+/Users/sindy/RiderProjects/Had/bin/Debug/net8.0/Had.pdb
+/Users/sindy/RiderProjects/Had/obj/Debug/net8.0/Had.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sindy/RiderProjects/Had/obj/Debug/net8.0/Had.AssemblyInfoInputs.cache
+/Users/sindy/RiderProjects/Had/obj/Debug/net8.0/Had.AssemblyInfo.cs
+/Users/sindy/RiderProjects/Had/obj/Debug/net8.0/Had.csproj.CoreCompileInputs.cache
+/Users/sindy/RiderProjects/Had/obj/Debug/net8.0/Had.dll
+/Users/sindy/RiderProjects/Had/obj/Debug/net8.0/refint/Had.dll
+/Users/sindy/RiderProjects/Had/obj/Debug/net8.0/Had.pdb
+/Users/sindy/RiderProjects/Had/obj/Debug/net8.0/Had.genruntimeconfig.cache
+/Users/sindy/RiderProjects/Had/obj/Debug/net8.0/ref/Had.dll
